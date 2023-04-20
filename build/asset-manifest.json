@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DharuvManchanda/MY-APP.git/static/css/main.8f4fd92e.css",
+    "main.js": "/DharuvManchanda/MY-APP.git/static/js/main.67bb1a2a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DharuvManchanda/MY-APP.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/DharuvManchanda/MY-APP.git/index.html",
+    "main.8f4fd92e.css.map": "/DharuvManchanda/MY-APP.git/static/css/main.8f4fd92e.css.map",
+    "main.67bb1a2a.js.map": "/DharuvManchanda/MY-APP.git/static/js/main.67bb1a2a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DharuvManchanda/MY-APP.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f4fd92e.css",
+    "static/js/main.67bb1a2a.js"
+  ]
+}
